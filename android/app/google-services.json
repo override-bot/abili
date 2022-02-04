@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024536400036",
+    "project_id": "abili-7e0fc",
+    "storage_bucket": "abili-7e0fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024536400036:android:f697585ded765b0a245631",
+        "android_client_info": {
+          "package_name": "com.example.abili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024536400036-3uvig8g1jupaheugf0ethqljfhs9v1qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAinEJE-ncdtZ2z5ZAn68PKzglOSqTZYeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024536400036-3uvig8g1jupaheugf0ethqljfhs9v1qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
